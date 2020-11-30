@@ -1,0 +1,14 @@
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/external/GitHubClient.java
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/rpc/RpcHelper.java
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/rpc/Register.java
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/rpc/SearchItem.java
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/entity/Item.java
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/db/MySQLDBUtil.java
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/rpc/ItemHistory.java
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/rpc/RecommendItem.java
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/db/MySQLTableCreation.java
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/rpc/Login.java
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/db/MySQLConnection.java
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/external/MonkeyLearnClient.java
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/recommendation/Recommendation.java
+/Users/applemac/eclipse-workspace/jupiter/src/main/java/rpc/Logout.java
